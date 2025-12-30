@@ -2,29 +2,16 @@
 
 Welcome to the Solana Volume Bot, an open-source script designed to help you achieve desired transaction volumes on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
-** COMPATIBLE WITH PUMPSWAP, TOKEN2022, CPMM/Non-CPMM & much more **
+** COMPATIBLE WITH PUMPSWAP, PUMPFUN, RAYDIUM, TOKEN2022, CPMM/Non-CPMM & much more **
+
+**TEST IT for FREE at: [solana-volume.com](https://solana-volume.com)**
 
 **join our [DISCORD](https://discord.gg/solana-scripts) for support & more tools**
 
 
+Soon supporting **METEORA** as well
 
-
-OPEN Source Version:
-
-
-
-https://github.com/user-attachments/assets/3afb9c6b-5233-4a44-9a05-2d87a2b5b094
-
-
-
-Newest Update:
-
-
-
-
-https://github.com/user-attachments/assets/81780630-4f8e-4b5c-90d0-5854df6605b3
-
-
+Latest update: July 2025.
 
 
 ## Getting Started

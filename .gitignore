@@ -1,0 +1,8 @@
+node_modules
+.env
+dist
+generated_wallets_DO_NOT_COMMIT.json
+generateWallets.js
+generateDistributorWallet.js
+distributor_wallet.json
+wallets.json
